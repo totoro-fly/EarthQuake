@@ -5,6 +5,8 @@
     android:id="@+id/list_view_activity_earthquake"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:divider="@null"
+    android:dividerHeight="0dp"
     tools:context="com.totoro_fly.earthquake.EarthquakeActivity">
 
 
