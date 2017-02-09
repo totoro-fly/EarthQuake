@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#4DD0E1</color>
     <color name="textColorEarthquakeDetails">#b4bac0</color>
     <color name="textColorEarthquakeLocation">#2b3d4d</color>
 
