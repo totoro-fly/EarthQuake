@@ -62,7 +62,7 @@ public class EarthquakeAdapter extends ArrayAdapter {
         TextView timeTtextView = (TextView) itemView.findViewById(R.id.time);
         long timeInMilliseconds = Long.parseLong(earthquake.getTime());
         Date date = new Date(timeInMilliseconds);
-        SimpleDateFormat dateFormat = new SimpleDateFormat("MMM DD,yyyy");
+        SimpleDateFormat dateFormat = new SimpleDateFormat("MMM dd,yyyy");
         SimpleDateFormat timeFormat = new SimpleDateFormat("HH:mm:ss");
         String dateToDispaly = dateFormat.format(date);
         String timeToDispaly = timeFormat.format(date);

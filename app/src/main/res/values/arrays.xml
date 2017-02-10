@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_order_by_lables">
+        <item>Magnitude</item>
+        <item>Most Recent</item>
+    </string-array>
+    <string-array name="setting_order_by_values">
+        <item>magnitude</item>
+        <item>time</item>
+    </string-array>
+</resources>
